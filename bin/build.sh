@@ -4,7 +4,7 @@
 #
 # usage:  ./build.sh 
 #
-# For packaging the extension into a downloadable zip.  
+# For packaging the plugin into a downloadable zip.
 #
 #    Corey Snipes <corey@twomile.com>
 #    November 3, 2010
@@ -17,7 +17,7 @@ VERSION=`cat ../version`
 # set build params
 FILES_DIR=$BASE_DIR/www/system
 DOCS_DIR=$BASE_DIR/doc
-ZIP=redirect_after_login-1.6.x-$VERSION.zip
+ZIP=multisite_search-1.6.x-$VERSION.zip
 BUILD_DIR=../build
 
 # display status

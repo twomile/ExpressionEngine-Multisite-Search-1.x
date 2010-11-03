@@ -1,0 +1,20 @@
+) ------------------------------------------------------------------------------------------------
+
+Change Log - Twomile Multisite Search Helper
+
+) ------------------------------------------------------------------------------------------------
+
+
+v 1.1.0 - November 11, 2008
+
+Fixed a bug which caused the user's current site ID to be reset.  Added tag parameter 
+allowing the specification of one or more entry statuses.
+
+
+
+v 1.0.0 - October 21, 2008
+
+Initial release.
+
+
+) ------------------------------------------------------------------------------------------------
